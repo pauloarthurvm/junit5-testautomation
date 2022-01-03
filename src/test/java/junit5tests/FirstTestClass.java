@@ -12,7 +12,7 @@ public class FirstTestClass {
     }
 
     @Test
-    @DisplayName("secondMethod")
+    @DisplayName("USER2374 - TC2356 - TestCase information")
     void secondMethod() {
         System.out.println("Second test");
     }
